@@ -10,3 +10,6 @@ make clean
 make
 
 ../Nbody6-last-test2/Ncode/nbody6 <name-of-file.input  > Ttest.log 2>Ttest.err&
+
+
+https://github.com/smhr/read-nbody
