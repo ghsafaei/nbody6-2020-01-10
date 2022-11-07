@@ -13,3 +13,11 @@ make
 
 
 https://github.com/smhr/read-nbody
+
+
+
+ make READ-NBODY-RT
+
+
+READ-NBODY-RT OUT3 my_simulation 0 0
+ 
