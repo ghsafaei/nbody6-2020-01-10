@@ -15,9 +15,13 @@ make
 https://github.com/smhr/read-nbody
 
 
+make READ-NBODY-TAIL
+make READ-NBODY-RT
+make READ-NBODY-2RT
 
- make READ-NBODY-RT
 
-
-READ-NBODY-RT OUT3 my_simulation 0 0
+./READ-NBODY-RT OUT3 my_simulation 0 0
  
+./READ-NBODY-2RT OUT3 my_simulation 0 0
+
+./READ-NBODY-TAIL OUT3 my_simulation 0 0
